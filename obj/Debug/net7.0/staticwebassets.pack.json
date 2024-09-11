@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Me\\source\\repos\\Ecommerce_WebApi\\WebApplication9\\wwwroot\\Images\\Products\\20240401092136.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Products\\20240401092136.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Me\\source\\repos\\Ecommerce_WebApi\\WebApplication9\\wwwroot\\Images\\Products\\20240401092425.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Products\\20240401092425.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Me\\source\\repos\\Ecommerce_WebApi\\WebApplication9\\wwwroot\\Images\\Products\\20240401092549.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\20240401092549.png"
+    },
+    {
+      "Id": "C:\\Users\\Me\\source\\repos\\Ecommerce_WebApi\\WebApplication9\\wwwroot\\Images\\Products\\20240401092924.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Products\\20240401092924.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Me\\source\\repos\\Ecommerce_WebApi\\WebApplication9\\wwwroot\\Images\\Products\\20240401093010.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Products\\20240401093010.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Me\\source\\repos\\Ecommerce_WebApi\\WebApplication9\\wwwroot\\Images\\Products\\20240401093106.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Products\\20240401093106.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Me\\source\\repos\\Ecommerce_WebApi\\WebApplication9\\wwwroot\\Images\\Products\\20240401093146.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Products\\20240401093146.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Me\\source\\repos\\Ecommerce_WebApi\\WebApplication9\\wwwroot\\Images\\Products\\20240401093311.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\20240401093311.png"
+    },
+    {
+      "Id": "C:\\Users\\Me\\source\\repos\\Ecommerce_WebApi\\WebApplication9\\wwwroot\\Images\\Products\\20240401093406.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Products\\20240401093406.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Me\\source\\repos\\Ecommerce_WebApi\\WebApplication9\\wwwroot\\Images\\Products\\20240401093501.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Products\\20240401093501.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Me\\source\\repos\\Ecommerce_WebApi\\WebApplication9\\wwwroot\\Images\\Products\\20240401093604.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Products\\20240401093604.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Me\\source\\repos\\Ecommerce_WebApi\\WebApplication9\\wwwroot\\Images\\Products\\20240401093638.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Products\\20240401093638.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Me\\source\\repos\\Ecommerce_WebApi\\WebApplication9\\wwwroot\\Images\\Products\\20240401093724.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Products\\20240401093724.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Me\\source\\repos\\Ecommerce_WebApi\\WebApplication9\\wwwroot\\Images\\Products\\20240401093749.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Products\\20240401093749.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Me\\source\\repos\\Ecommerce_WebApi\\WebApplication9\\wwwroot\\Images\\Products\\20240401093847.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Products\\20240401093847.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Me\\source\\repos\\Ecommerce_WebApi\\WebApplication9\\wwwroot\\Images\\Products\\20240401093938.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Products\\20240401093938.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Me\\source\\repos\\Ecommerce_WebApi\\WebApplication9\\wwwroot\\Images\\Products\\20240401094012.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Products\\20240401094012.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Ecomerce_WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Ecomerce_WebApi.props",
+      "PackagePath": "build\\Ecomerce_WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Ecomerce_WebApi.props",
+      "PackagePath": "buildMultiTargeting\\Ecomerce_WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Ecomerce_WebApi.props",
+      "PackagePath": "buildTransitive\\Ecomerce_WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
